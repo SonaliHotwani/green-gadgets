@@ -1,2 +1,3 @@
 # green-gadgets
 A DBMS system to manage electronic gadgets' refurbishment and recycling processes
+The idea aims to solve the problem of E-waste problems to help environmental sustainability and maintain a healthier ecosystem. The processes of dismantling and disposing of electronic waste in developing countries led to several environmental impacts. E-waste describes discarded electrical or electronic devices that have ended their useful life. These devices include everything from old computers to smartphones and electronic gadgets. This solution will help refurbish and recycle e-waste from the initial collection of discarded electronics to their final disposition, ensuring minimal environmental impact and maximum resource recovery. 
